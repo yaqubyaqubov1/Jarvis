@@ -1,0 +1,136 @@
+2026-10-03 22:47:50,659 | INFO | HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-10-03 22:47:50,847 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-base.en/revision/main "HTTP/1.1 200 OK"
+2026-10-03 22:47:57,516 | INFO | Processing audio with duration 00:01.184
+2026-10-03 22:47:57,686 | INFO | VAD filter removed 00:01.184 of audio
+2026-10-03 22:47:57,770 | INFO | Could not import comtypes.gen, trying to create it.
+2026-10-03 22:47:57,771 | INFO | Created comtypes.gen directory: 'C:\Users\yaqub\OneDrive\Desktop\Jarvis\jarvis-assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-10-03 22:47:57,771 | INFO | Writing __init__.py file: 'C:\Users\yaqub\OneDrive\Desktop\Jarvis\jarvis-assistant\.venv\Lib\site-packages\comtypes\gen\__init__.py'
+2026-10-03 22:47:57,782 | INFO | Using writeable comtypes cache directory: 'C:\Users\yaqub\OneDrive\Desktop\Jarvis\jarvis-assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-10-03 22:47:57,799 | INFO | Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-10-03 22:47:57,803 | INFO | # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-10-03 22:47:57,880 | INFO | # Generating comtypes.gen.SpeechLib
+2026-10-03 22:47:57,888 | INFO | Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-10-03 22:47:57,889 | INFO | # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-10-03 22:47:57,895 | INFO | # Generating comtypes.gen.stdole
+2026-10-03 22:48:03,368 | INFO | Processing audio with duration 00:01.664
+2026-10-03 22:48:03,372 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-03 22:48:08,946 | INFO | Processing audio with duration 00:01.824
+2026-10-03 22:48:08,950 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-03 23:27:48,015 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-base.en/revision/main "HTTP/1.1 200 OK"
+2026-10-03 23:27:52,849 | INFO | Processing audio with duration 00:01.760
+2026-10-03 23:27:52,966 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-03 23:27:53,719 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\yaqub\\OneDrive\\Desktop\\Jarvis\\jarvis-assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-10-03 23:27:53,719 | INFO | Using writeable comtypes cache directory: 'C:\Users\yaqub\OneDrive\Desktop\Jarvis\jarvis-assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-10-03 23:27:59,043 | INFO | Processing audio with duration 00:02.432
+2026-10-03 23:27:59,049 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-03 23:28:18,207 | INFO | Processing audio with duration 00:04.224
+2026-10-03 23:28:18,215 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-03 23:28:39,597 | INFO | Processing audio with duration 00:03.552
+2026-10-03 23:28:39,605 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-03 23:32:07,761 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-base.en/revision/main "HTTP/1.1 200 OK"
+2026-10-03 23:32:14,781 | INFO | Processing audio with duration 00:03.328
+2026-10-03 23:32:14,860 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-03 23:32:15,679 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\yaqub\\OneDrive\\Desktop\\Jarvis\\jarvis-assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-10-03 23:32:15,679 | INFO | Using writeable comtypes cache directory: 'C:\Users\yaqub\OneDrive\Desktop\Jarvis\jarvis-assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-10-03 23:32:28,242 | INFO | Processing audio with duration 00:03.616
+2026-10-03 23:32:28,250 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-03 23:32:39,357 | INFO | Processing audio with duration 00:03.584
+2026-10-03 23:32:39,364 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-03 23:32:56,073 | INFO | Processing audio with duration 00:01.824
+2026-10-03 23:32:56,078 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:18:25,482 | INFO | HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-10-05 21:18:25,671 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-base.en/revision/main "HTTP/1.1 200 OK"
+2026-10-05 21:19:08,986 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-base.en/revision/main "HTTP/1.1 200 OK"
+2026-10-05 21:19:19,809 | INFO | Processing audio with duration 00:02.432
+2026-10-05 21:19:19,947 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:19:20,947 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\yaqub\\OneDrive\\Desktop\\Jarvis\\jarvis-assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-10-05 21:19:20,947 | INFO | Using writeable comtypes cache directory: 'C:\Users\yaqub\OneDrive\Desktop\Jarvis\jarvis-assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-10-05 21:19:38,791 | INFO | Processing audio with duration 00:03.040
+2026-10-05 21:19:38,797 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:20:07,444 | INFO | Processing audio with duration 00:03.712
+2026-10-05 21:20:07,452 | INFO | VAD filter removed 00:01.840 of audio
+2026-10-05 21:20:17,979 | INFO | Processing audio with duration 00:04.928
+2026-10-05 21:20:17,988 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:20:30,468 | INFO | Processing audio with duration 00:02.304
+2026-10-05 21:20:30,473 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:20:47,859 | INFO | Processing audio with duration 00:05.088
+2026-10-05 21:20:47,868 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:21:07,134 | INFO | Processing audio with duration 00:03.552
+2026-10-05 21:21:07,140 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:21:14,552 | INFO | Processing audio with duration 00:01.440
+2026-10-05 21:21:14,555 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:21:27,789 | INFO | Processing audio with duration 00:03.552
+2026-10-05 21:21:27,796 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:21:41,577 | INFO | Processing audio with duration 00:03.648
+2026-10-05 21:21:41,584 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:21:49,023 | INFO | Processing audio with duration 00:03.680
+2026-10-05 21:21:49,030 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:22:09,755 | INFO | Processing audio with duration 00:03.648
+2026-10-05 21:22:09,762 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:22:18,500 | INFO | Processing audio with duration 00:01.472
+2026-10-05 21:22:18,504 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:22:31,003 | INFO | Processing audio with duration 00:03.296
+2026-10-05 21:22:31,010 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:22:35,518 | WARNING | exception parsing edid str for DISPLAY\LEN9125\5&64cdd48&0&UID256_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-10-05 21:22:44,426 | INFO | Processing audio with duration 00:03.392
+2026-10-05 21:22:44,432 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:22:47,933 | WARNING | exception parsing edid str for DISPLAY\LEN9125\5&64cdd48&0&UID256_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-10-05 21:23:00,057 | INFO | Processing audio with duration 00:05.152
+2026-10-05 21:23:00,067 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:23:04,018 | WARNING | exception parsing edid str for DISPLAY\LEN9125\5&64cdd48&0&UID256_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-10-05 21:23:16,111 | INFO | Processing audio with duration 00:07.040
+2026-10-05 21:23:16,124 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:23:19,770 | WARNING | exception parsing edid str for DISPLAY\LEN9125\5&64cdd48&0&UID256_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-10-05 21:23:28,668 | INFO | Processing audio with duration 00:01.600
+2026-10-05 21:23:28,672 | INFO | VAD filter removed 00:01.600 of audio
+2026-10-05 21:23:33,355 | INFO | Processing audio with duration 00:04.320
+2026-10-05 21:23:33,363 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:23:36,938 | WARNING | exception parsing edid str for DISPLAY\LEN9125\5&64cdd48&0&UID256_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-10-05 21:23:57,150 | INFO | Processing audio with duration 00:05.824
+2026-10-05 21:23:57,161 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:24:14,734 | INFO | Processing audio with duration 00:09.632
+2026-10-05 21:24:14,752 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:24:27,591 | INFO | Processing audio with duration 00:02.592
+2026-10-05 21:24:27,597 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:24:46,394 | INFO | Processing audio with duration 00:08.384
+2026-10-05 21:24:46,408 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:24:56,628 | INFO | Processing audio with duration 00:01.600
+2026-10-05 21:24:56,631 | INFO | VAD filter removed 00:01.600 of audio
+2026-10-05 21:25:01,365 | INFO | Processing audio with duration 00:03.936
+2026-10-05 21:25:01,373 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:25:28,657 | INFO | Processing audio with duration 00:07.648
+2026-10-05 21:25:28,672 | INFO | VAD filter removed 00:07.648 of audio
+2026-10-05 21:25:31,477 | INFO | Processing audio with duration 00:01.184
+2026-10-05 21:25:31,481 | INFO | VAD filter removed 00:01.184 of audio
+2026-10-05 21:31:23,407 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-base.en/revision/main "HTTP/1.1 200 OK"
+2026-10-05 21:31:31,833 | INFO | Processing audio with duration 00:04.288
+2026-10-05 21:31:31,922 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:31:35,456 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\yaqub\\OneDrive\\Desktop\\Jarvis\\jarvis-assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-10-05 21:31:35,456 | INFO | Using writeable comtypes cache directory: 'C:\Users\yaqub\OneDrive\Desktop\Jarvis\jarvis-assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-10-05 21:31:58,236 | INFO | Processing audio with duration 00:11.840
+2026-10-05 21:31:58,258 | INFO | VAD filter removed 00:07.728 of audio
+2026-10-05 21:32:54,391 | INFO | Processing audio with duration 00:04.544
+2026-10-05 21:32:54,400 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:33:05,743 | INFO | Processing audio with duration 00:01.824
+2026-10-05 21:33:05,747 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:33:10,453 | INFO | Processing audio with duration 00:03.840
+2026-10-05 21:33:10,460 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:33:20,716 | INFO | Processing audio with duration 00:01.952
+2026-10-05 21:33:20,720 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:33:26,996 | INFO | Processing audio with duration 00:05.184
+2026-10-05 21:33:27,006 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:33:41,840 | INFO | Processing audio with duration 00:04.704
+2026-10-05 21:33:41,849 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:34:03,006 | INFO | Processing audio with duration 00:04.192
+2026-10-05 21:34:03,015 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-05 21:34:17,425 | INFO | Processing audio with duration 00:01.696
+2026-10-05 21:34:17,431 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-06 15:25:41,266 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-base.en/revision/main "HTTP/1.1 200 OK"
+2026-10-06 15:26:27,108 | INFO | Processing audio with duration 00:01.632
+2026-10-06 15:26:27,227 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-06 15:26:35,423 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\yaqub\\OneDrive\\Desktop\\Jarvis\\jarvis-assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-10-06 15:26:35,424 | INFO | Using writeable comtypes cache directory: 'C:\Users\yaqub\OneDrive\Desktop\Jarvis\jarvis-assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-10-06 15:27:19,887 | INFO | Processing audio with duration 00:02.240
+2026-10-06 15:27:19,892 | INFO | VAD filter removed 00:00.000 of audio
+2026-10-06 15:27:25,462 | INFO | Processing audio with duration 00:01.248
+2026-10-06 15:27:25,465 | INFO | VAD filter removed 00:00.000 of audio
